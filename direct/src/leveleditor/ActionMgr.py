@@ -1,4 +1,4 @@
-from pandac.PandaModules import *
+from panda3d.core import Mat4
 from direct.showbase.PythonUtil import Functor
 from . import ObjectGlobals as OG
 
